@@ -1,0 +1,4 @@
+outs:
+- md5: 8d9e57d6bfd48c864ac3a1e9f2d0a216
+  size: 340288
+  path: SolarData.csv
